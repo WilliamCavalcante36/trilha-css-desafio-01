@@ -1,1 +1,1 @@
-Desafio da trilha css, focado para melhorar meu css.
+Desafio da trilha css da DIO.
